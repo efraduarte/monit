@@ -1,5 +1,7 @@
 ###############################################################################
 ## Monit control file
+## By franck/monitrc 
+# https://gist.github.com/franck/1415908
 ###############################################################################
 ##
 ## Comments begin with a '#' and extend through the end of the line. Keywords
